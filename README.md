@@ -1,1 +1,2 @@
-# Dribble-Clone-Using-Ruby-on-Rails
+# ObjectiveQuiz_Assng1
+Develop an Android Application which asks if a number is prime or not.
